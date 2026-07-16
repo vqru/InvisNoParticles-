@@ -1,0 +1,6 @@
+name: InvisNoParticles
+version: '1.0.0'
+main: com.example.invisnoparticles.InvisNoParticles
+api-version: '26.2'
+author: You
+description: Hides particles for Invisibility only, leaves all other potion effects untouched.
